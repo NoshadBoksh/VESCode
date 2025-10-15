@@ -18,39 +18,50 @@ const teamMembers = [
   {
     name: "Noshad Boksh",
     role: "Founder, CEO & Engineer",
-    bio: "Skilled in building scalable products and leading technical teams",
+    bio: "Leads the company’s vision through innovative engineering, strategic leadership, and a commitment to building technology that makes a real impact.",
   },
   {
     name: "Elena Ng",
     role: "Front End Engineer",
-    bio: "Specializes in modern web technologies and user-centered design",
+    bio: "Designs seamless, visually engaging interfaces using modern web technologies, with a strong focus on accessibility, usability, and performance.",
   },
   {
     name: "Junn Han Chong",
     role: "Software Engineer",
-    bio: "Focused on distributed systems and robust architecture",
+    bio: "Develops reliable, scalable systems with in-depth expertise in distributed computing and robust software architecture.",
+  },
+  {
+    name: "Ryan Le",
+    role: "Software Engineer (Testing & Automation)",
+    bio: "Ensures software excellence through advanced testing frameworks, automation, and API validation—supported by a strong background in accounting and data integrity.",
   },
   {
     name: "William Tran",
     role: "Software Engineer",
-    bio: "Passionate about crafting fast and engaging user experiences",
+    bio: "Delivers high-performing, responsive web applications with an emphasis on optimisation, innovation, and user experience.",
   },
   {
     name: "Lukas Klosse",
     role: "Software Engineer",
-    bio: "Experienced in backend development, API design, and databases",
+    bio: "Specialises in backend architecture, RESTful API development, and database management to power scalable and dependable platforms.",
+  },
+  {
+    name: "Mark Flandez",
+    role: "C++ Software Developer",
+    bio: "Combines deep C++ expertise with a focus on performance-driven engineering, creating efficient and reliable software for complex systems.",
   },
   {
     name: "Karthik Vamedevan",
     role: "Accounting Intern",
-    bio: "Developing strong skills in financial analysis and reporting",
+    bio: "Applies strong analytical and financial skills to support data accuracy, reporting efficiency, and informed decision-making across the organisation.",
   },
   {
     name: "Lavid Hassan",
-    role: "UI/UX Design Intern",
-    bio: "Designs clear, elegant, and intuitive user interfaces",
+    role: "Software Engineering Intern",
+    bio: "Supports full-stack development projects with an emphasis on writing clean, maintainable code and creating intuitive, user-centred digital solutions.",
   },
 ]
+
 
 export function TeamSection() {
   // Helper function to get initials from name

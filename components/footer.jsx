@@ -1,4 +1,4 @@
-import { Github, Linkedin, Twitter } from "lucide-react"
+import { Github, Linkedin } from "lucide-react"
 
 /**
  * FOOTER
@@ -20,7 +20,7 @@ export function Footer() {
 
           <div className="flex gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/NoshadBoksh"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -29,7 +29,7 @@ export function Footer() {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/noshad-boksh"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
