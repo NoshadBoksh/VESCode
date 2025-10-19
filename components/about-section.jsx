@@ -10,8 +10,8 @@
 const statsData = [
   { value: "50+", label: "Projects delivered" },
   { value: "15+", label: "Team members" },
-  { value: "98%", label: "Client satisfaction" },
-  { value: "5+", label: "Years experience" },
+  { value: "100%", label: "Commitment to quality" },
+  { value: "2024", label: "Founded" },
 ]
 
 export function AboutSection() {

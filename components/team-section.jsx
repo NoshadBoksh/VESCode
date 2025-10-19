@@ -51,7 +51,12 @@ const teamMembers = [
     bio: "Combines deep C++ expertise with a focus on performance-driven engineering, creating efficient and reliable software for complex systems.",
   },
   {
-    name: "Karthik Vamedevan",
+    name: "Joshua Dang",
+    role: "Project Manager",
+    bio: "Drives project delivery with precision and clarity, coordinating technical teams to ensure milestones are met efficiently. Oversees deployment workflows, cloud infrastructure, and performance optimisation to maintain VESCODE’s high standards of reliability and scalability.",
+  },
+  {
+    name: "Karthik Vamadevan",
     role: "Accounting Intern",
     bio: "Applies strong analytical and financial skills to support data accuracy, reporting efficiency, and informed decision-making across the organisation.",
   },
@@ -59,6 +64,16 @@ const teamMembers = [
     name: "Lavid Hassan",
     role: "Software Engineering Intern",
     bio: "Supports full-stack development projects with an emphasis on writing clean, maintainable code and creating intuitive, user-centred digital solutions.",
+  },
+  {
+    name: "Adnan Uddin",
+    role: "Software Engineering Intern",
+    bio: "Contributes to front-end and back-end development projects, learning best practices in modern software engineering while supporting the team in building efficient, scalable applications.",
+  },
+  {
+    name: "Benjamin Sison",
+    role: "Data Analyst Intern",
+    bio: "Applies analytical thinking and data-driven methodologies to support business insights, reporting accuracy, and strategic decision-making across projects. Continuously developing expertise in data visualisation and automation tools.",
   },
 ]
 
