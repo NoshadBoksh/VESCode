@@ -61,7 +61,7 @@ const teamMembers = [
     bio: "Applies strong analytical and financial skills to support data accuracy, reporting efficiency, and informed decision-making across the organisation.",
   },
   {
-    name: "Lavid Hassan",
+    name: "Lavid Hasan",
     role: "Software Engineering Intern",
     bio: "Supports full-stack development projects with an emphasis on writing clean, maintainable code and creating intuitive, user-centred digital solutions.",
   },
